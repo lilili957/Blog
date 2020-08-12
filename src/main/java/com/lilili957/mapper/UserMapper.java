@@ -8,7 +8,7 @@ import com.lilili957.bean.User;
 import java.util.List;
 
 /**
- * Created by sang on 2017/12/17.
+ * Created by lilili957 2020/07/09
  */
 @Mapper
 public interface UserMapper {
